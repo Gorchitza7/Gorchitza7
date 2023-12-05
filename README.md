@@ -2,13 +2,11 @@
 
 ---
 
-### :man_technologist: Обо мне:
+### Обо мне:
 
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался летом 2023 года. Когда я окончательно решил сменить профессию. С октября 2023 года я начал изучать веб разработку на курсах SkillFactory. В настоящий момент мое обучение на курсе продолжается и в ближайшие 6-8 месяце я планирую начать искать свою первую работу!
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+---
 
 - :zap: Являюсь студентом на курсе Веб-разработки SkillFactory.
 
@@ -55,7 +53,7 @@
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gorchitza7&theme=dark&background=000000)](https://git.io/streak-stats)
 
