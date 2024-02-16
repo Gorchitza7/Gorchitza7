@@ -1,3 +1,16 @@
+# Hello, my name is Andrey!
+
+---
+
+### About me:
+
+I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT began in the Summer of 2023 when i finally decided to change my profession. In October 2023, I started web-development courses at SkillFactory. Currently, I'm continuing the courses, and in the next 6-8 months I'm planning to start looking for the first job in the industry! 
+
+- :zap: I'm a student on a web-development course at SkillFactory.
+
+---
+
+
 # Привет, меня зовут Андрей!
 
 ---
@@ -15,7 +28,7 @@
 </div>
 
 ---
-### 🤝 Социальные сети:
+### 🤝 Социальные сети / Social networks:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/andrii-maslov-4554b995/" target="_blank">
@@ -34,7 +47,7 @@
 
 ---
 
-### 💻 Технологии:
+### 💻 Технологии / Technology:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
