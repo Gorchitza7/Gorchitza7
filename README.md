@@ -23,7 +23,7 @@ I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :zap: Являюсь студентом на курсе Веб-разработки SkillFactory.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="50"/>
 </div>
 
 ---
