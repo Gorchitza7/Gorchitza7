@@ -74,8 +74,19 @@ I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### My Stats :
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Gorchitza7&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorchitza7&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gorchitza7&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gorchitza7&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorchitza7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
