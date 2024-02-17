@@ -22,7 +22,7 @@ I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: Являюсь студентом на курсе Веб-разработки SkillFactory.
 
-![Snake animation](https://github.com/{{Gorchitza7}}/{{Gorchitza7}}/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 ### 🤝 Социальные сети / Social networks:
