@@ -19,12 +19,16 @@ I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался летом 2023 года. Когда я окончательно решил сменить профессию. С октября 2023 года я начал изучать веб разработку на курсах SkillFactory. В настоящий момент мое обучение на курсе продолжается и в ближайшие 6-8 месяце я планирую начать искать свою первую работу!
 
 ---
-
-- :zap: Являюсь студентом на курсе Веб-разработки SkillFactory.
-
-
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gorchitza7/Gorchitza7/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gorchitza7/Gorchitza7/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Gorchitza7/Gorchitza7/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 ---
+
 ### 🤝 Социальные сети / Social networks:
 
   <div id="badges">
