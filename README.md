@@ -74,6 +74,10 @@ I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Gorchitza7/badges/large)
+---
 
 ### My Stats :
 <table>
