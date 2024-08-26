@@ -75,6 +75,17 @@ I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
+
+---
+
+### Остальное / Other:
+
+<div>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" />
+</div>
+
+---
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Gorchitza7/badges/large)
