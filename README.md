@@ -58,14 +58,6 @@ I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
-   <p align="center">
- <a href="https://nodejs.org/en/download/package-manager" title="Node.js"><img src="assets/icon/nodejs.svg" width="30px"/></a> &nbsp;
- <a href="https://jestjs.io/ru/docs/configuration#collectcoveragefrom-array" title="Jest"><img src="assets/icon/Jest.svg" width="30px"/></a> &nbsp;
- <a href="https://playwright.dev/" title="Playwright"><img src="assets/icon/playwright.png" width="30px"/></a> &nbsp;
- <a href="https://pptr.dev/" title="Puppeteer"><img src="assets/icon/puppeteer.svg" width="30px"/></a> &nbsp;
- <a href="https://cloud.cypress.io/" title="Cypress"><img src="assets/icon/cypress.svg" width="30px"/></a> &nbsp;
- <a href="https://www.jenkins.io/download/" title="Jenkins"><img src="assets/icon/jenkins.svg" width="30px"/></a> 
-</p>
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp  -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp -->
@@ -82,6 +74,29 @@ I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+<table align="right" width="100%" >
+  <tr>
+    <td align="right" width="100%" >
+
+<p align="center">
+<img width="386px" src="assets/gifs/line.gif">             
+</p>
+
+*<h3 align="center"><a href="https://github.com/stars/levvolkov/lists/testing-web-interfaces"> «Автоматизация тестирования <br> веб-интерфейсов» </a></h3>*
+
+<p align="center">
+ <a href="https://nodejs.org/en/download/package-manager" title="Node.js"><img src="assets/icon/nodejs.svg" width="30px"/></a> &nbsp;
+ <a href="https://jestjs.io/ru/docs/configuration#collectcoveragefrom-array" title="Jest"><img src="assets/icon/Jest.svg" width="30px"/></a> &nbsp;
+ <a href="https://playwright.dev/" title="Playwright"><img src="assets/icon/playwright.png" width="30px"/></a> &nbsp;
+ <a href="https://pptr.dev/" title="Puppeteer"><img src="assets/icon/puppeteer.svg" width="30px"/></a> &nbsp;
+ <a href="https://cloud.cypress.io/" title="Cypress"><img src="assets/icon/cypress.svg" width="30px"/></a> &nbsp;
+ <a href="https://www.jenkins.io/download/" title="Jenkins"><img src="assets/icon/jenkins.svg" width="30px"/></a> 
+</p>
+
+*<details align="center">*
 
 ---
 
