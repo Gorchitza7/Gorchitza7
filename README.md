@@ -77,29 +77,6 @@ I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-<table align="right" width="100%" >
-  <tr>
-    <td align="right" width="100%" >
-
-<p align="center">
-<img width="386px" src="assets/gifs/line.gif">             
-</p>
-
-*<h3 align="center"><a href="https://github.com/stars/levvolkov/lists/testing-web-interfaces"> «Автоматизация тестирования <br> веб-интерфейсов» </a></h3>*
-
-<p align="center">
- <a href="https://nodejs.org/en/download/package-manager" title="Node.js"><img src="assets/icon/nodejs.svg" width="30px"/></a> &nbsp;
- <a href="https://jestjs.io/ru/docs/configuration#collectcoveragefrom-array" title="Jest"><img src="assets/icon/Jest.svg" width="30px"/></a> &nbsp;
- <a href="https://playwright.dev/" title="Playwright"><img src="assets/icon/playwright.png" width="30px"/></a> &nbsp;
- <a href="https://pptr.dev/" title="Puppeteer"><img src="assets/icon/puppeteer.svg" width="30px"/></a> &nbsp;
- <a href="https://cloud.cypress.io/" title="Cypress"><img src="assets/icon/cypress.svg" width="30px"/></a> &nbsp;
- <a href="https://www.jenkins.io/download/" title="Jenkins"><img src="assets/icon/jenkins.svg" width="30px"/></a> 
-</p>
-
-*<details align="center">*
-
----
-
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Gorchitza7/badges/large)
