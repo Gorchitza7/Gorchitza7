@@ -98,7 +98,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 ---
 
 ### My Stats :
-<table>
+<table align="center">
   <tr>
 <!--     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Gorchitza7&theme=dark&background=000000" alt="webDev's Github stats" />
