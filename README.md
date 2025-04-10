@@ -4,9 +4,15 @@
 
 ### About me:
 
-I'm a beginner web-developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT began in the Summer of 2023 when i finally decided to change my profession. In October 2023, I started web-development courses at SkillFactory. Currently, I'm continuing the courses, and in the next 6-8 months I'm planning to start looking for the first job in the industry! 
+I'm a junior QA Engineer with experience in manual testing and a growing focus on test automation using Playwright and TypeScript. My journey in IT began in the summer of 2023 when I decided to change my profession. Since then, I’ve completed a web development course and joined Finmars, a financial startup from Luxembourg, where I worked on QA processes, bug tracking, smoke testing, API, and UI validation.
 
-- :zap: I'm a student on a web-development course at SkillFactory.
+Currently, I’m deepening my automation skills with Playwright and building a QA portfolio, including both manual and automated testing examples.
+
+⚡ I’m transitioning from manual QA to automation (Playwright + TypeScript) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+
+🧪 I test dashboards, transactions, filters, imports and frontend/backend bugs
+
+📊 I’ve built and documented 20+ test cases and bugs in live startup projects
 
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
