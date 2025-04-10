@@ -105,7 +105,6 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
     </td> 
     <td>
 <!--       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorchitza7&layout=compact&theme=vision-friendly-dark" /> --> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gorchitza7&layout=compact&langs_count=6&theme=dracula" height="150" />
-
     </td>
   </tr>
 </table>
