@@ -53,10 +53,10 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a>
-    </a>
+    <!-- </a>
     <a href="https://vk.com/maslovandrey1991" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
+    </a> -->
   </div>
 
 
