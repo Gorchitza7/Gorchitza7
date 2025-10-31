@@ -12,7 +12,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 
 🧪 I test dashboards, transactions, filters, imports and frontend/backend bugs
 
-📊 I’ve built and documented 30+ test cases and bugs in live startup projects
+📊 I’ve built and documented 100+ test cases and bugs in live startup projects
 
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -30,7 +30,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 
 🧪 Тестировал дашборды, отчёты, транзакции, фильтры, импорты, баги в UI
 
-📊 Подготовил и оформил 30+ багов и кейсов из реального стартапа
+📊 Подготовил и оформил 100+ багов и кейсов из реального стартапа
 
 ---
 <div align="center">
