@@ -100,10 +100,10 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 ### My Stats :
 <table align="center">
   <tr>
-  <td>
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Gorchitza7&theme=dark&background=000000" alt="webDev's Github stats" /> 
+  <!-- <td> -->
+<!-- <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Gorchitza7&theme=dark&background=000000" alt="webDev's Github stats" />  -->
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gorchitza7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats" /> -->
-    </td>
+    <!-- </td> -->
     <td>
  <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorchitza7&layout=compact&theme=vision-friendly-dark" /> 
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gorchitza7&layout=compact&langs_count=6&theme=dracula" height="150" /> -->
