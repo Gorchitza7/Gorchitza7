@@ -88,7 +88,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
-<!-- <img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-download-png-2945092.png" title="postman" alt="postman" width="40" height="40"/>&nbsp; -->
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-logo-icon-svg-download-png-2945092.png" title="postman" alt="postman" width="40" height="40"/>&nbsp;
 </div>
 
 ---
