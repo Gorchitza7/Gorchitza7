@@ -4,7 +4,7 @@
 
 ### About me:
 
-I'm a junior QA Engineer with experience in manual testing and a growing focus on test automation using Playwright and TypeScript. My journey in IT began in the summer of 2023 when I decided to change my profession. Since then, I’ve completed a web development course and joined  a financial startup from Luxembourg, where I worked on QA processes, bug tracking, smoke testing, API, and UI validation.
+I'm a junior QA Engineer with experience in manual testing and a growing focus on test automation using Playwright and TypeScript. My journey in IT began in the summer of 2023 when I decided to change my profession. Since then, I’ve completed a web development course and joined  a financial startup, where I worked on QA processes, bug tracking, smoke testing, API, and UI validation.
 
 Currently, I’m deepening my automation skills with Playwright and building a QA portfolio, including both manual and automated testing examples.
 
