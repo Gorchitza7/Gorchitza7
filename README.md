@@ -4,7 +4,7 @@
 
 ### About me:
 
-I'm a junior QA Engineer with experience in manual testing and a growing focus on test automation using Playwright and TypeScript. My journey in IT began in the summer of 2023 when I decided to change my profession. Since then, I’ve completed a web development course and joined Finmars, a financial startup from Luxembourg, where I worked on QA processes, bug tracking, smoke testing, API, and UI validation.
+I'm a junior QA Engineer with experience in manual testing and a growing focus on test automation using Playwright and TypeScript. My journey in IT began in the summer of 2023 when I decided to change my profession. Since then, I’ve completed a web development course and joined  a financial startup from Luxembourg, where I worked on QA processes, bug tracking, smoke testing, API, and UI validation.
 
 Currently, I’m deepening my automation skills with Playwright and building a QA portfolio, including both manual and automated testing examples.
 
@@ -22,7 +22,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 
 ### Привет, меня зовут Андрей! Немного обо мне:
 
-Я Junior QA Engineer с опытом ручного тестирования в коммерческом проекте и начальным уровнем в автоматизации с использованием Playwright и TypeScript. Мой путь в IT начался летом 2023 года, когда я решил сменить профессию. После прохождения курсов веб-разработки я устроился в стартап Finmars (Люксембург), где занимался тестированием UI, фильтров, отчётов, API, импорта данных и дешбордов.
+Я Junior QA Engineer с опытом ручного тестирования в коммерческом проекте и начальным уровнем в автоматизации с использованием Playwright и TypeScript. Мой путь в IT начался летом 2023 года, когда я решил сменить профессию. После прохождения курсов веб-разработки я устроился в фин-тех стартап, где занимался тестированием UI, фильтров, отчётов, API, импорта данных и дешбордов.
 
 Сейчас я активно развиваюсь в сторону автоматизации, создаю автотесты на Playwright, изучаю архитектуру Page Object и собираю QA-портфолио с кейсами ошибок и тестов.
 
