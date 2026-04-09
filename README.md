@@ -33,7 +33,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 📊 Подготовил и оформил 100+ багов и кейсов из реального стартапа
 
 ---
-<div align="center">
+<!-- <div align="center"> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gorchitza7/Gorchitza7/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gorchitza7/Gorchitza7/output/github-contribution-grid-snake.svg" />
