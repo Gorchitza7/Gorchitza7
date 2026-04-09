@@ -46,7 +46,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 ### 🤝 Социальные сети / Social networks:
 
   <div id="badges">
-    <!-- <a href="https://www.linkedin.com/in/andrii-maslov-4554b995/" target="_blank"> -->
+    <a href="https://www.linkedin.com/in/andrii-maslov-4554b995/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/AndriiMaslov" target="_blank">
