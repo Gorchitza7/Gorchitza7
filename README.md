@@ -119,7 +119,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 </table>
 
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gorchitza7&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gorchitza7&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorchitza7&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
