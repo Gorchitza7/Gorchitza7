@@ -45,7 +45,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 
 ### 🤝 Социальные сети / Social networks:
 
-  <div id="badges" style="display: flex; gap: 10px; >
+  <div id="badges" >
     <a href="https://www.linkedin.com/in/andrii-maslov-4554b995/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
@@ -59,7 +59,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 
 ### 💻 Технологии / Technology:
 
-<div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap;>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/Docker.png" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
