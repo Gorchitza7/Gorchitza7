@@ -118,6 +118,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
   </tr>
 </table>
 
+<!--
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gorchitza7&theme=dark&background=000000)](https://git.io/streak-stats)
 ---
