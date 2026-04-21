@@ -70,6 +70,15 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
     <td><img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/Docker.png" width="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40"/></td>
+    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40"/></td>
+    <td><img src="https://playwright.dev/img/playwright-logo.svg" width="50"/></td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/></td>
@@ -78,6 +87,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
   </tr>
 </table>
 
+<!-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40"/> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp  -->
 <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp -->
