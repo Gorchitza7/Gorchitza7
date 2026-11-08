@@ -53,7 +53,7 @@ Currently, I’m deepening my automation skills with Playwright and building a Q
 <table>
   <tr>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/></td>
-    <td><img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/Docker.png" width="40"/></td>
+    <!-- <td><img src="https://www.vikingsoftware.com/wp-content/uploads/2024/02/Docker.png" width="40"/></td> -->
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/></td>
     <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/></td>
     <!-- <td><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="40"/></td>
